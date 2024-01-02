@@ -59,11 +59,6 @@ Solves a kaggle problem to develop algorithms for classify genetic mutations bas
 
 ## About The Project
 
-
-
-https://user-images.githubusercontent.com/52542371/216345622-55e1a257-b947-4e23-b27b-5d5474553e0a.mp4
-
-
 - It explores variety of approaches and machine learning algorithms like Logistic Regression,Naive Bayes,Random Forest,SVM to predict the Genetic Mutation category
 - The probability scores and prediction category helps in diagnosing the person better giving personalized cancer treatment
 
