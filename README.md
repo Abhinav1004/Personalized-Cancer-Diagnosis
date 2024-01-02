@@ -13,7 +13,7 @@ Solves a kaggle problem to develop algorithms for classify genetic mutations bas
 <br />
 <p align="center">
   <a href="https://github.com/Abhinav1004/Personalized-Cancer-Diagnosis">
-    <img src="https://user-images.githubusercontent.com/52542371/216172655-9b650e06-2828-434e-bb9c-ed66d977852e.png" alt="Logo" width="80" height="80">
+    <img src="./images/personalized_caner_diagnosis_image.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Personalized-Cancer-Diagnosis </h3>
