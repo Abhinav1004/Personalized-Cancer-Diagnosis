@@ -82,10 +82,6 @@ To get a local copy up and running follow these simple steps.
 
 Install python 3.10
 
-- bash
-  ```sh
-   git clone https://github.com/flutter/flutter.git -b stable
-  ```
 
 ### Installation
 
