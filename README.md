@@ -50,7 +50,6 @@ Solves a kaggle problem to develop algorithms for classify genetic mutations bas
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -112,11 +111,6 @@ Install python 3.10
 
 5. Download the data from competition website [link](https://www.kaggle.com/c/msk-redefining-cancer-treatment/) and paste the  data in data folder present in Working Directory
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/raysummee/raylex-studio/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
