@@ -12,8 +12,9 @@ Solves a kaggle problem to develop algorithms for classify genetic mutations bas
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Abhinav1004/Personalized-Cancer-Diagnosis">
-    <img src="./images/personalized_caner_diagnosis_image.jpeg" alt="Logo" width="80" height="80">
+
+<a href="https://github.com/Abhinav1004/Personalized-Cancer-Diagnosis">
+    <img src="https://github.com/Abhinav1004/Personalized-Cancer-Diagnosis/assets/24820856/74615172-09ad-42d9-9407-fe0eb24c4b58" alt="Logo" width="80" height="80"> 
   </a>
 
   <h3 align="center">Personalized-Cancer-Diagnosis </h3>
